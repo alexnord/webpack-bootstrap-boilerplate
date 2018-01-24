@@ -11,8 +11,17 @@ npm i
 ```
 
 ## Usage
-`npm start`  - Build and automatically open a browser window.
+Build and automatically open a browser window:
+```sh
+npm start
+```
 
-`npm run watch` - Watch files for changes.
+Watch files for changes:
+```sh
+npm run watch
+```
 
-`npm run build` - Build for production.
+Build for production:
+```sh
+npm run build
+```
